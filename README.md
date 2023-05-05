@@ -1,5 +1,10 @@
 # Flutter Favorite Places
 
+Featured:
+
+- Using native device features to take image from camera 
+- Getting current device location
+
 ![alt text](https://github.com/k2tam/Flutter_Fav_Places/blob/main/readme_images/home.png?raw=true)
 
 
